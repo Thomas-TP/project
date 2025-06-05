@@ -1,5 +1,5 @@
 ---
-title: <span style="color:#4682B4">Serenitest - Plan du projet</span>
+# title: <span style="color:#4682B4">Serenitest - Plan du projet</span>
 
 ---
 
